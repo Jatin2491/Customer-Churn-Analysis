@@ -13,7 +13,7 @@
 <img width="1480" height="1490" alt="image" src="https://github.com/user-attachments/assets/28449489-e52a-4ebf-bee8-b4b83c13d4d2" />
 
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
