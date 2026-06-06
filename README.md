@@ -1,17 +1,30 @@
 # Telco Customer Churn Analysis
 
+
 ## Project Visualizations
 
 ### Customer Churn Distribution
 <img width="471" height="470" alt="image" src="https://github.com/user-attachments/assets/770c3535-5113-45c1-9d44-f2f8b64075f7" />
 
-
 ### Contract Type vs Churn
 <img width="471" height="470" alt="image" src="https://github.com/user-attachments/assets/09ca5d0b-613b-421c-bc2c-a5a20a7625bd" />
 
-
 ### Services vs Churn
 <img width="1480" height="1490" alt="image" src="https://github.com/user-attachments/assets/28449489-e52a-4ebf-bee8-b4b83c13d4d2" />
+
+
+## 🚀 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Customer Segmentation
+- Business Insights Generation
+- Python Programming
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 
 ## Overview
